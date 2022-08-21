@@ -1,0 +1,19 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stormwild/Mastering-React-Test-Driven-Development.git"
+  },
+  "author": "Alexander R. Torrijos <artorrijos@gmail.com> (https://stormwild.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
